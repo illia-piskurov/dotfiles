@@ -5,7 +5,7 @@
 `I use Lua BTW 😎`
 
 Requirements for Neovim:
-- [`Neovim`][Neovim] version `>=` 0.7.0
+- [`Neovim`][Neovim] version `>=` 0.8.0
 - [`Packer`][Packer] plugin
 - [`Nerd Fonts`][Nerd Fonts]
 

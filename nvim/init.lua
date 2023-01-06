@@ -7,3 +7,8 @@ require('base/search')
 require('plugins/plugins')
 require('plugins/colorscheme')
 require('plugins/lualine')
+require('plugins/barbar')
+require('plugins/nvim-tree')
+
+-- Keys
+require('keys/barbar')
