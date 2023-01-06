@@ -11,4 +11,11 @@ return require('packer').startup(function(use)
     -- Status Bar
     use 'nvim-lualine/lualine.nvim'
 
+    -- LSP
+    use {
+        "williamboman/mason.nvim",
+        "williamboman/mason-lspconfig.nvim",
+        "neovim/nvim-lspconfig",
+    }
+
 end)

@@ -1,6 +1,4 @@
-local opt = vim.opt
+vim.opt.number         = true
+vim.opt.relativenumber = true
 
-opt.number         = true
-opt.relativenumber = true
-
-opt.encoding="utf-8"
+vim.opt.encoding = "utf-8"

@@ -1,3 +1,1 @@
-local opt = vim.opt
-
-opt.showmatch = true
+vim.opt.showmatch = true
