@@ -2,7 +2,7 @@
 
 ### Neovim
 
-I use Lua BTW 😎
+`I use Lua BTW 😎`
 
 Requirements for Neovim:
 - [`Neovim`][Neovim] version `>=` 0.7.0
