@@ -10,6 +10,9 @@ require('plugins/plugins')
 require('plugins/lualine')
 require('plugins/barbar')
 require('plugins/nvim-tree')
+
+-- Plugins for LSP support and auto completion
+require('plugins/nvim-cmp')
 require('plugins/mason')
 
 -- Colorscheme
