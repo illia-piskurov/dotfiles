@@ -14,12 +14,12 @@ return require('packer').startup(function(use)
 
     -- Status Bar
     use {
-        'nvim-lualine/lualine.nvim',
-        requires = { 'kyazdani42/nvim-web-devicons', opt = true }
+      'nvim-lualine/lualine.nvim',
+      requires = { 'kyazdani42/nvim-web-devicons', opt = true }
     }
 
     -- Tabline
-    use {'romgrk/barbar.nvim', requires = 'nvim-web-devicons'}
+    use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
 
     -- File Explorer
     use {
