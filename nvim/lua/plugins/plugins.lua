@@ -7,6 +7,7 @@ return require('packer').startup(function(use)
 
     -- Colorscheme
     use 'folke/tokyonight.nvim'
+    use 'ellisonleao/gruvbox.nvim'
 
     -- Web Icons
     use 'nvim-tree/nvim-web-devicons'
@@ -30,9 +31,9 @@ return require('packer').startup(function(use)
 
     -- LSP
     use {
-        "williamboman/mason.nvim",
-        "williamboman/mason-lspconfig.nvim",
-        "neovim/nvim-lspconfig",
+        'williamboman/mason.nvim',
+        'williamboman/mason-lspconfig.nvim',
+        'neovim/nvim-lspconfig',
     }
 
 end)
