@@ -1,0 +1,9 @@
+theme = "catppuccin_frappe"
+
+[editor]
+line-number = "relative"
+mouse = true
+bufferline = "always"
+
+[editor.cursor-shape]
+insert = "bar"
