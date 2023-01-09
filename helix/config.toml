@@ -2,8 +2,10 @@ theme = "catppuccin_frappe"
 
 [editor]
 line-number = "relative"
-mouse = true
-bufferline = "always"
+bufferline  = "always"
+mouse       = true
+cursorline  = true
+color-modes = true
 
 [editor.cursor-shape]
 insert = "bar"
