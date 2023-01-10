@@ -1,11 +1,10 @@
-theme = "gruvbox_transparent"
+theme = "onedark_transparent"
 
 [editor]
 line-number = "relative"
 bufferline  = "always"
 rulers      = [80]
 mouse       = true
-cursorline  = true
 color-modes = true
 
 [editor.cursor-shape]
