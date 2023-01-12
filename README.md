@@ -1,5 +1,10 @@
 # My dotfiles 😎
 
+### Helix 😍
+
+Requirements for Helix:
+- [`Helix`][Helix] version `>=` 22.12
+
 ### Neovim 🤓
 
 `I use Lua BTW 🧐`
@@ -9,10 +14,6 @@ Requirements for Neovim:
 - [`Packer`][Packer] plugin
 - [`Nerd Fonts`][Nerd Fonts]
 
-### Helix 😍
-
-Requirements for Helix:
-- [`Helix`][Helix] version `>=` 22.12
 
 [Packer]: https://github.com/wbthomason/packer.nvim
 [Nerd Fonts]: https://www.nerdfonts.com/
