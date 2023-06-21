@@ -1,7 +1,6 @@
 local transparent_background
 
 -- Disable transparent background of colorscheme for Neovide
--- Now i dont know how to do it for nvim-qt
 if vim.g.neovide then
     transparent_background = false
 else

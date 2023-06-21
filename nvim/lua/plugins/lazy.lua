@@ -12,8 +12,10 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 local plugins = {
-    -- Colorscheme
+    -- Colorschemes
     'ellisonleao/gruvbox.nvim',
+    'folke/tokyonight.nvim',
+    'navarasu/onedark.nvim',
     -- Icons
     'nvim-tree/nvim-web-devicons',
     -- Powerline
